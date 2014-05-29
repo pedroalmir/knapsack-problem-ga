@@ -1,7 +1,7 @@
 /**
  * @Filename:       KnapsackProblem.java
  * @Author:         Matthew Mayo
- * @Modified:  2014-04-08
+ * @Modified:       2014-04-08
  * @Description:    Creates a KnapsackProblem object based on user input,
  *                  attempts to solve using a genetic algorithm; outputs 
  *                  algorithm data step-by-step, generates list of optimal
