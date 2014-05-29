@@ -1,7 +1,7 @@
 /**
  * @Filename:       SimpleGraph.java
  * @Author:         Matthew Mayo
- * @Modified:  2014-04-08
+ * @Modified:       2014-04-08
  * @Description:    Creates a SimpleGraph object based on supplied ArrayList
  *                  of data points; draws graph, adds points, lines, appropriate
  *                  hatch marks; must supply ArrayList of data points to plot 
